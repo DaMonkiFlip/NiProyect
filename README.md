@@ -1,2 +1,2 @@
-# NidProy
+# NiProyect
 code for access
